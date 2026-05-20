@@ -1,4 +1,6 @@
-Dashboard APS — Atención Primaria de Salud
+#Dashboard APS — Atención Primaria de Salud
+<img width="1521" height="778" alt="Captura de pantalla 2026-05-20 153316" src="https://github.com/user-attachments/assets/ee5a71f8-3cbd-467f-8d6a-e2a683b3bc81" />
+
 
 Sistema de análisis estadístico avanzado para derivaciones y tiempos de espera en Atención Primaria de Salud (APS), desarrollado con Streamlit y orientado a departamentos de salud municipal, CESFAM y gestión sanitaria.
 
