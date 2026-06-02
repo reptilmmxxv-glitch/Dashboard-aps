@@ -312,7 +312,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Metodología
+##  Metodología
 
 Todos los análisis de tiempos de espera se calculan exclusivamente sobre pacientes efectivamente derivados al nivel secundario:
 
@@ -322,6 +322,6 @@ df_der = df[df["Derivado_Secundario"] == "Sí"]
 
 ---
 
-## 👨‍💻 Autor
+##  Autor: Camilo Rozas 
 
 Proyecto desarrollado para análisis estadístico y visualización avanzada de derivaciones APS.
